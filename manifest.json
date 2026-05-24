@@ -1,6 +1,6 @@
 {
-  "name": "UniQuiz — University MCQ Platform",
-  "short_name": "UniQuiz",
+  "name": "Quiz Maker — University MCQ Platform",
+  "short_name": "Quiz Maker",
   "description": "Upload Word docs and take MCQ quizzes instantly",
   "start_url": "./index.html",
   "display": "standalone",
